@@ -95,16 +95,14 @@
 
 </td></tr></table>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=atepir" align="center" /></div>
-  
 <br/>  
 
-## Github Stats  
+## Public Github Stats  
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=atepir&theme=dark&background=000000" align="center" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atepir&show_icons=true&count_private=true&hide_border=true&rank_icon=github" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atepir&show_icons=true&count_private=true&hide_border=true&rank_icon=github&show=prs_merged,prs_merged_percentage" align="center" />
 </div>
 
 <br/> 

@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Tikedeni](https://partenaire.tikedeni.com)  
   
 
-- 🌱 I’m currently learning State Vector Machines  
+- 🌱 I’m currently learning Chess :) 
   
 
 - ❓ Ask me about anything related to MERN and MEAN stack and related technologies  
